@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("Suma dos números")
-st.write("Este programa hara que sume dos números")
+st.title("Pitoniso de animales")
+st.write("Este programa adivina el animal en base a lo siguiente:")
 
 num_1 = 0
 num_2 = 0
